@@ -10,7 +10,7 @@ License -> https://github.com/subinps/Instagram-Bot/blob/main/LICENSE
 ```
 
 
-You can Download almost anything From your Instagram Account.
+You can Download almost anything Fro your Instagram Account.
 
 **What Can Be Downloaded?:**
 ```
